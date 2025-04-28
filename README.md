@@ -29,7 +29,7 @@ A simple weather application built with **React.js** using the **OpenWeatherMap 
 
 ## 🔧 Installation
 
-1. Clone the repo:
+Clone the repo:
  ```bash
 git clone https://github.com/Anixa-Dev/Weather.git
 
