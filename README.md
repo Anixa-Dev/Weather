@@ -46,7 +46,7 @@ Anixa Bhayani
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Anixa-Dev/Weather.git
 
 1. Navigate to the project folder:
 cd weather-app
