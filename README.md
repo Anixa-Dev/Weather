@@ -1,50 +1,45 @@
-# React + Vite
+# 📌 Weather App — React.js + OpenWeatherMap API
 
-# 📌 Project Title — Weather App 🌦️
-
-A simple weather application built with **React.js** using the **OpenWeatherMap API**. Users can search for any city and get real-time weather updates like temperature, humidity, and sky condition.
+A simple and responsive **Weather App** built using **React.js** and the **OpenWeatherMap API**.  
+Users can search for any city in the world and view the current weather conditions including temperature, humidity, and a description of the weather.
 
 ---
 
 ## 🚀 Features
-- Search for any city worldwide.
-- Displays temperature, weather condition, and location.
-- Responsive design for mobile & desktop.
+- 🌦️ Search weather by city name.
+- 📍 View temperature (°C), humidity, and weather description.
+- 📱 Responsive design for mobile and desktop screens.
+- 🔄 Error handling for invalid city names.
+- 🌐 Live deployed version.
 
 ---
 
 ## 💻 Technologies Used
-- React.js
-- CSS / TailwindCSS (optional)
-- OpenWeatherMap API
-- Axios (or Fetch API)
+- React.js (Frontend)
+- OpenWeatherMap API (Weather Data)
+- CSS3 / TailwindCSS (for Styling)
+- Axios or Fatch (for API Requests)
 
 ---
 
 ## 📸 Screenshots
-![Screenshot 2025-04-28 115801](https://github.com/user-attachments/assets/b8b4c76b-7719-4d71-88f4-47dc3e7ea751)
 
+![Screenshot 2025-04-28 115801](https://github.com/user-attachments/assets/d53cc1a3-ed73-4e8a-95ef-03b6385bf162)
 
 ---
 
-## 🔧 Installation
+## 🔧 Installation and Setup Instructions
 
-Clone the repo:
- ```bash
-git clone https://github.com/Anixa-Dev/Weather.git
+Clone the repository:
 
-1. Navigate into the project:
+```bash
+git clone https://github.com/yourusername/weather-app.git
+
+1. Navigate to the project folder:
 cd weather-app
 
-2. Install dependencies:
+2. Install the dependencies:
 npm install
 
-3. Run the project:
+3. Start the development server:
 npm run dev
-
-🌐 Live Demo
-[View the live site here](https://weather-anixa.netlify.app/)
-
-🙋‍♂️ Author
-Anixa Bhayani
-[LinkedIn](https://www.linkedin.com/in/anixa-bhayani-637263178/) | [GitHub](https://github.com/Anixa-Dev)
