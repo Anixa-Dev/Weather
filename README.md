@@ -18,13 +18,26 @@ Users can search for any city in the world and view the current weather conditio
 - React.js (Frontend)
 - OpenWeatherMap API (Weather Data)
 - CSS3 / TailwindCSS (for Styling)
-- Axios or Fatch (for API Requests)
+- Axios or Fetch  (for API Requests)
 
 ---
 
 ## 📸 Screenshots
 
 ![Screenshot 2025-04-28 115801](https://github.com/user-attachments/assets/d53cc1a3-ed73-4e8a-95ef-03b6385bf162)
+
+---
+
+## 🌐 Live Demo
+👉 [View Live Site Here](https://weather-anixa.netlify.app/)
+
+---
+## 🙋‍♂️ Author
+Anixa Bhayani
+
+[GitHub](https://github.com/Anixa-Dev)
+
+[LinkedIn](https://www.linkedin.com/in/anixa-bhayani-637263178/)
 
 ---
 
