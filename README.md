@@ -41,3 +41,10 @@ npm install
 
 3. Run the project:
 npm run dev
+
+🌐 Live Demo
+[View the live site here](https://weather-anixa.netlify.app/)
+
+🙋‍♂️ Author
+Anixa Bhayani
+[LinkedIn](https://www.linkedin.com/in/anixa-bhayani-637263178/) | [GitHub](https://github.com/Anixa-Dev)
