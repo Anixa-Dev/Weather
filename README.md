@@ -32,3 +32,12 @@ A simple weather application built with **React.js** using the **OpenWeatherMap 
 1. Clone the repo:
 ```bash
 git clone https://github.com/Anixa-Dev/Weather.git
+
+2. Navigate into the project:
+cd weather-app
+
+3. Install dependencies:
+npm install
+
+4. Run the project:
+npm run dev
